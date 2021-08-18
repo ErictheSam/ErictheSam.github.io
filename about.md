@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+I am Yibo Shen, a former bachelor student of THUCST, and a new master student under GIX program, with instruction from Yuntao Wang. I am currently an intern in map team, ponyai.
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+A place for me to store some pieces of engineering/academic/management tips.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[EricSam413@outlook.com](mailto:EricSam413@outlook.com)
