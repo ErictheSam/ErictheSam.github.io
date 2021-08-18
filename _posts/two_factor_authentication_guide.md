@@ -1,4 +1,7 @@
-## 双因子认证2-factor-authentication(2FA)的一些使用tips
+---
+layout: post
+title: 双因子认证(2FA)的一些使用tips
+---
 
 本文只简单讲下自己遇到的github相关多因子认证问题，因为前几天一不小心踩到了一个坑。
 
